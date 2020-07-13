@@ -1,0 +1,8 @@
+C:\Revature_Code\jack-project1v2\DowntownDeliWebApp\obj\Debug\netcoreapp3.1\DowntownDeliWebApp.csprojAssemblyReference.cache
+C:\Revature_Code\jack-project1v2\DowntownDeliWebApp\obj\Debug\netcoreapp3.1\DowntownDeliWebApp.AssemblyInfoInputs.cache
+C:\Revature_Code\jack-project1v2\DowntownDeliWebApp\obj\Debug\netcoreapp3.1\DowntownDeliWebApp.AssemblyInfo.cs
+C:\Revature_Code\jack-project1v2\DowntownDeliWebApp\obj\Debug\netcoreapp3.1\DowntownDeliWebApp.RazorAssemblyInfo.cache
+C:\Revature_Code\jack-project1v2\DowntownDeliWebApp\obj\Debug\netcoreapp3.1\DowntownDeliWebApp.RazorAssemblyInfo.cs
+C:\Revature_Code\jack-project1v2\DowntownDeliWebApp\obj\Debug\netcoreapp3.1\DowntownDeliWebApp.TagHelpers.input.cache
+C:\Revature_Code\jack-project1v2\DowntownDeliWebApp\obj\Debug\netcoreapp3.1\DowntownDeliWebApp.TagHelpers.output.cache
+C:\Revature_Code\jack-project1v2\DowntownDeliWebApp\obj\Debug\netcoreapp3.1\DowntownDeliWebApp.RazorCoreGenerate.cache
