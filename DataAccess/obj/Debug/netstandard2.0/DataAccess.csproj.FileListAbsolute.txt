@@ -1,4 +1,0 @@
-C:\Revature_Code\jack-project1v2\DataAccess\bin\Debug\netstandard2.0\Domain.dll
-C:\Revature_Code\jack-project1v2\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
-C:\Revature_Code\jack-project1v2\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
-C:\Revature_Code\jack-project1v2\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs

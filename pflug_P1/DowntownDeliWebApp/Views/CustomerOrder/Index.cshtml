@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Welcome to the order page!</h1>
+<br />
+<p> What would you like to do?</p>
+1)@Html.ActionLink("Place an order", "AddCustomerOrder", "CustomerOrder")
+<br />
+2)@Html.ActionLink("Display an Order", "DisplayOrders", "CustomerOrder")

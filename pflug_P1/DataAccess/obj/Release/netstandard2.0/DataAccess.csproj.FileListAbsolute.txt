@@ -1,0 +1,12 @@
+C:\Revature_Code\pflug_P1\DataAccess\bin\Release\netstandard2.0\DataAccess.deps.json
+C:\Revature_Code\pflug_P1\DataAccess\bin\Release\netstandard2.0\DataAccess.dll
+C:\Revature_Code\pflug_P1\DataAccess\bin\Release\netstandard2.0\DataAccess.pdb
+C:\Revature_Code\pflug_P1\DataAccess\bin\Release\netstandard2.0\Domain.dll
+C:\Revature_Code\pflug_P1\DataAccess\bin\Release\netstandard2.0\Domain.pdb
+C:\Revature_Code\pflug_P1\DataAccess\obj\Release\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Revature_Code\pflug_P1\DataAccess\obj\Release\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Revature_Code\pflug_P1\DataAccess\obj\Release\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Revature_Code\pflug_P1\DataAccess\obj\Release\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Revature_Code\pflug_P1\DataAccess\obj\Release\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Revature_Code\pflug_P1\DataAccess\obj\Release\netstandard2.0\DataAccess.dll
+C:\Revature_Code\pflug_P1\DataAccess\obj\Release\netstandard2.0\DataAccess.pdb

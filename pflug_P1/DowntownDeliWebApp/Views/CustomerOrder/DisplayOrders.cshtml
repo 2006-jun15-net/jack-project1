@@ -1,0 +1,56 @@
+﻿
+@model IEnumerable<ClassLibrary.Models.CustomerOrderModel>
+
+@*@{
+    ViewData["Title"] = "Display Customers";
+}*@
+
+<h1>Display Orders</h1>
+
+<p>
+    @*<a asp-action="Create">Create New</a>*@
+</p>
+
+
+<table class="table">
+    <thead>
+        <tr>
+
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AmountPurchased)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductId)
+            </th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+
+            <td>
+                @Html.DisplayNameFor(model => model.CustomerName)
+            </td>
+            <td>
+                @Html.DisplayNameFor(model => model.AmountPurchased)
+            </td>
+            <td>
+                @Html.DisplayNameFor(model => model.OrderId)
+            </td>
+            <td>
+                @Html.DisplayNameFor(model => model.ProductId)
+            </td>
+
+        </tr>
+        }
+    </tbody>
+</table>

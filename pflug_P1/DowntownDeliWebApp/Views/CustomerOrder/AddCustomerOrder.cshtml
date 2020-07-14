@@ -1,0 +1,60 @@
+﻿@model DowntownDeliWebApp.Models.CustomerOrderViewModel
+
+@{
+    ViewData["Title"] = "AddCustomerOrder";
+}
+
+
+
+<h4>Place an Order</h4>
+<br />
+<h3> Item List:</h3>
+<p> Please Choose a valid option in the Order Id Column</p>
+<p> Enter 1 for Ham and Cheese, 2 for Burger, 3 for Grilled Cheese, 4 for Fries </p>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddCustomerOrder">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @*<div class="form-group">
+            <label asp-for="ProductId" class="control-label"></label>
+            <select asp-for="ProductId" class="form-control" asp-items="ViewBag.ProductId"></select>
+        </div>*@
+            @*need to add a select list for the locations as well as the products*@
+            <div class="form-group">
+                <label asp-for="AmountPurchased" class="control-label"></label>
+                <input asp-for="AmountPurchased" class="form-control" />
+                <span asp-validation-for="AmountPurchased" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CustomerName" class="control-label"></label>
+                <input asp-for="CustomerName" class="form-control" />
+                <span asp-validation-for="CustomerName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LocationName" class="control-label"></label>
+                <input asp-for="LocationName" class="form-control" />
+                <span asp-validation-for="LocationName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProductId" class="control-label"></label>
+                <input asp-for="ProductId" class="form-control" />
+                <span asp-validation-for="ProductId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+
+
+            @*<div class="from-group">
+        @Html.DropDownList("Locations", Model.Locations))
+            </div>*@
+
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
